@@ -1,0 +1,8 @@
+* Inbox
+** TODO Add a counter of attempt before finding right number
+
+ [[file:~/Coding/python/automateTheBoringStuff/flowControl/guessNumber.py::!/usr/bin/env python]]
+
+** TODO Check limit case
+
+[[file:~/Coding/python/automateTheBoringStuff/flowControl/guessNumber.py::!/usr/bin/env python]]
